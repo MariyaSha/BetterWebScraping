@@ -17,7 +17,7 @@ Create a database from scratch by extracting html elements from a webpage with <
 <b>Step 5:</b> Download and save all the images at once.
 <br>
 <br>
-<b>Also available in a video explination:</b> https://youtu.be/ySNSY7iiBDY
+<b>Also available in a video explination:</b> https://youtu.be/drDdb1MBBfI
 <br>
 <b>Author:</b> Mariya Sha
 <br>
